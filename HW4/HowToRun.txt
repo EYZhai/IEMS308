@@ -4,9 +4,9 @@ python3
 nltk libraries
 python elastic search client library
 -------How To Run------------
-Navigate to the folder where main.py locate.
-In cmd, run: python3 main.py
-Then you'll be able to use the QA system.
+Navigate to the folder where HW4.py locate.
+In cmd, run: python3 HW4.py
+Then you'll be able to use the Q&A system.
 -------Note------------------
 Elastic search server should only need to setup once.
 You can comment out lines that I specified in the source code.
