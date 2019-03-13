@@ -1,0 +1,12 @@
+-------Prerequisite----------
+Latest version of Elastic search running at port 9200.
+python3
+nltk libraries
+python elastic search client library
+-------How To Run------------
+Navigate to the folder where main.py locate.
+In cmd, run: python3 main.py
+Then you'll be able to use the QA system.
+-------Note------------------
+Elastic search server should only need to setup once.
+You can comment out lines that I specified in the source code.
